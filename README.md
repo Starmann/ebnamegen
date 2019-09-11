@@ -1,0 +1,2 @@
+# ebnamegen
+Earthbound Name Generator
